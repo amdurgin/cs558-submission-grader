@@ -1,0 +1,19 @@
+{
+  "author": "Alexander Durgin",
+  "name": "cs558-submission-grader",
+  "version": "1.0.0",
+  "description": "Produces grading function.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/amdurgin/cs558-submission-grader"
+  },
+  "engine": {
+    "node": "*"
+  },
+  "directories": {
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
